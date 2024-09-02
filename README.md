@@ -1,4 +1,4 @@
-Hi there 👋
+Hello there 👋
 ```python
 class Programmer:
   def __init__(self):
